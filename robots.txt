@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://richardrlawless-coder.github.io/prepa-promesa-article/sitemap.xml
+# Pages deployment trigger: 2026-08-15
