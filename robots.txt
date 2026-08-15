@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://richardrlawless-coder.github.io/prepa-promesa-article/sitemap.xml
